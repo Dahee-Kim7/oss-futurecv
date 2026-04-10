@@ -89,7 +89,7 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 
 <details>
 <summary>상세 내용 보기</summary>
-<br>
+
 
 **핵심 구현 사항:**
 
@@ -115,6 +115,7 @@ B2B SaaS 대시보드 UI 신규 개발에 참여하였습니다.
 
 <details>
 <summary>상세 내용 보기</summary>
+  
 <br>
 
 **핵심 구현 사항:**
